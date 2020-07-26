@@ -1,0 +1,22 @@
+form {
+    margin: 20px;
+  }
+
+  #header {
+    background-color: aqua;
+    
+    padding: 5px 0px;
+  }
+  #header img {
+    float: left;
+    margin-left: 10px;
+  }
+
+  #header h3 {
+    color: white;
+    text-align: center;
+  }
+  #social
+  {
+    margin: 50px 0px;
+  }
